@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "github:discordjs/discord.js#master",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "setimmediate": "^1.0.5"
   }
 }
